@@ -1,0 +1,49 @@
+/* style background */
+body {
+  background-color: rgb(24, 114, 87);
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* style untuk kata h1 */
+h1 {
+  margin-bottom: 100px;
+}
+
+/* style kotak 1 */
+.kotak1 {
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border-radius: 5px;
+  margin-left: 100px;
+  float: left;
+  margin-right: 50px;
+  line-height: 200px;
+  color: rgb(24, 114, 87);
+}
+
+/* style kotak 2 */
+.kotak2 {
+  height: 200px;
+  width: 200px;
+  background-color: salmon;
+  border-radius: 5px;
+  margin-left: 530px;
+  line-height: 200px;
+  color: rgb(24, 114, 87);
+}
+
+/* style kotak 3 */
+.kotak3 {
+  height: 200px;
+  width: 200px;
+  background-color: #131313;
+  border-radius: 5px;
+  margin-left: 980px;
+  margin-top: -200px;
+  line-height: 200px;
+  color: rgb(24, 114, 87);
+}
